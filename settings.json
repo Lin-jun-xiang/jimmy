@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "files.associations": {
+        "cstdarg": "cpp",
+        "cstdio": "cpp",
+        "iostream": "cpp"
+    }
+}
